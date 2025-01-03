@@ -1,0 +1,13 @@
+[1229/181904.590:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1229/183936.312:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1229/185838.268:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[1229/185843.274:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[1229/191310.655:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1229/191905.293:ERROR:network_service_instance_impl.cc(972)] Network service crashed, restarting service.
+[1229/192601.822:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1229/193545.206:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0101/184009.805:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0101/190635.150:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0102/155357.066:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0102/173654.036:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0102/223825.833:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
